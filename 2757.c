@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2757
+Data        : 15/04/2026
+Objetivo    : outputs de quatro variaveis, mostrando diferentes formas de como apresenta-la
+Aprendizado : especificacao de formato (adicionar espacos e como prencher eles)
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
