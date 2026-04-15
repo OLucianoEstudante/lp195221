@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 1000
+Data        : 15/04/2026
+Objetivo    : Hello World! como output
+Aprendizado : a funcao printf
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
  
 int main() {
