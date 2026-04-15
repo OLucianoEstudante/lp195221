@@ -4,7 +4,7 @@ Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 1071
 Data        : 15/04/2026
-Objetivo    : Ler dois valores inteiros e mostrar a somas dos numeros impares entre os valores dados.
+Objetivo    : Ler dois valores inteiros e mostrar a soma dos numeros impares entre os valores dados.
 Aprendizado : Aprendido o uso da funcao while
 -------------------------------------------------------------------------- */
 
