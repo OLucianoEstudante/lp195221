@@ -1,9 +1,10 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luciano de Andrade da Silva Netto
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 2758
-Data        : 15/04/2026
+Data        : 16/04/2026
 Objetivo    : especificar como sera o output de dados
 Aprendizado : mais formas de especificacao de formato (quantas casas e notacao cientifica)
 -------------------------------------------------------------------------- */
