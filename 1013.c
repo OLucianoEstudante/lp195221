@@ -1,9 +1,10 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luciano de Andrade da Silva Netto
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 1013
-Data        : 15/04/2026
+Data        : 16/04/2026
 Objetivo    : output do numero maior entre tres numeros
 Aprendizado : uso do scanf e if,else if e else
 -------------------------------------------------------------------------- */
