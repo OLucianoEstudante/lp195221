@@ -1,9 +1,10 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luciano de Andrade da Silva Netto
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 1071
-Data        : 15/04/2026
+Data        : 16/04/2026
 Objetivo    : Ler dois valores inteiros e mostrar a soma dos numeros impares entre os valores dados.
 Aprendizado : Aprendido o uso da funcao while
 -------------------------------------------------------------------------- */
