@@ -15,19 +15,19 @@ Aprendizado : uso de string, char, string.h, ctype.h e gets
 
 int main(){
 
-    char texto[51];
+    char texto[51]; //51 pois tem o "\0"
     int M, n;
     
     while(gets(texto) !=NULL){
-        M = 0;
+        M = 0;//usado para fazer maiuscula ou minuscula
         n = strlen(texto);
         for (int i = 0; i < n; i++){
-            if (isalpha(texto[i])){
+            if (isalpha(texto[i])){//checka se tem uma letra
                 if(M%2 == 0){
-                    texto[i] = toupper(texto[i]);
+                    texto[i] = toupper(texto[i]);//transforma a letra em maiuscula
                 }
                 else{
-                    texto[i] = tolower(texto[i]);
+                    texto[i] = tolower(texto[i]);//transforma a letra em minuscula
                 }
                 
                 M++;
