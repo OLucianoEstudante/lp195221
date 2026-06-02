@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Luciano de Andrade da Silva Netto
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 1169
+Exercício   : 1046
 Data        : 01/06/2026
 Objetivo    : saber quantos horas o jogo durou
 Aprendizado : funcao e return
