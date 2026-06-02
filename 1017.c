@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Luciano de Andrade da Silva Netto
 Linguagem   : C
 Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 1169
+Exercício   : 1017
 Data        : 01/06/2026
 Objetivo    : quantos litros serao utilizados
 Aprendizado : funcao e return
