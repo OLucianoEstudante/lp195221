@@ -29,7 +29,7 @@ int main(){
 
     for(int i=0; i<vezes; i++){
         scanf("%d", &casas);
-        printf("%llu Kg\n", ngraos(casas)/12000);
+        printf("%llu kg\n", ngraos(casas)/12000);
    }
 
     return 0;
