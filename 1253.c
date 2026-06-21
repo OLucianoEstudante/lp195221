@@ -30,11 +30,12 @@ int main()
 
       //logica para deslocar todas as letras do texto variavel vezes a direita
         for (l=0; texto[l] != '\0'; l++){
-            texto[l]= ((texto[l] - 'A') + deslocamento) % 26 + 'A';
+            texto[l]= (texto[l] - 'A' - deslocamento + 26) % 26 + 'A';
             /*formula importante pois as letras devem ficar entre A e Z (65 e 90),
             o primeiro passo faz o numero ser entre 0 e 25,
-            o segundo passo soma o deslocamento,
-            o terceiro passo assegura que não ultrapasse o numero 90,
+            o segundo passo subtrai o deslocamento,
+            o terceiro passo soma o numero de letras no alfabeto
+            o quarto passo assegura que não ultrapasse o numero 90,
             ultimo passo transforma o numero em uma letra na ASCII*/
         
         }
