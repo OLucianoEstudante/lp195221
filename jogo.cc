@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luciano de Andrade da Silva Netto
+Linguagem   : C++
+Plataforma  : https://github.com/OLucianoEstudante/lp195221
+Exercício   : Jogo de Sudoku
+Data        : 22/06/2026
+Objetivo    : Criar um jogo de Sudoku, que recebe um jogo, que pode ser completado e tem cenario de vitoria
+Aprendizado : uso do funcoes bool, void, usar chars como ints
+-------------------------------------------------------------------------- */
+
 // um sudoku simples, nao gerativo (sudoku nao eh formado). certa liberdade de input e protecao contra usuario
 
 #include <iostream>
